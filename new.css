@@ -1,3 +1,19 @@
-h1 {
-	
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
+
+body{
+	font-family: 'poppins';
+	background-color: #ecedef;
+	line-height: 1.8;
+}
+
+a{
+	text-decoration: none; <!-- delete underlines from the links -->
+}
+
+
