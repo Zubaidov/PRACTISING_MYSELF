@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
 *{
 	margin: 0;
 	padding: 0;
@@ -49,6 +48,7 @@ a{
 	padding: 10px;
 	border: #ddd 1px solid;
 	border-radius: 5px;
+	font-family: 'poppins';
 }
 
 .form-wrap button{
@@ -68,4 +68,19 @@ a{
 .form-wrap button:hover{
 	background-color: #37a08e;
 	transition: 1s;
+}
+
+.form-wrap .button-text{
+	font-size: 13px;
+	margin-top: 20px;
+}
+
+footer{
+	text-align: center;
+	margin-top: 10px;
+	color: #333;
+}
+
+footer a{
+	color: #49c1a2;
 }
