@@ -16,4 +16,8 @@ a{
 	text-decoration: none; <!-- delete underlines from the links -->
 }
 
-
+#container{
+	max-width: 430px;
+	margin: 30px auto;
+	padding: 20px;
+}
