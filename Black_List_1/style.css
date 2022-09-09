@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+}.container:hover {
+    border: 1px solid lightblue;
+}.container:active{
+    border: 1px solid red;
+}
+
+.size{
+    width: 400px;
+    height: 300px;
+}
+
+.siz{
+    width: 400px;
+    height: 300px;
+}
