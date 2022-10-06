@@ -72,8 +72,3 @@ li{
 .services:hover .dropdown {
     display: block;
 }
-
-.home{
-    display: flex;
-    justify-content: space-around;
-}
